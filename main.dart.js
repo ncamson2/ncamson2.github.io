@@ -92920,7 +92920,7 @@ s=r.jD(t.N1)
 p.a(s.c.gE())
 p=this.c
 s=A.a5(p).i("ae<1,kU<n>>")
-A.aFH(r,8,A.ah(new A.ae(p,new A.aBi(),s),!0,s.i("aL.E")),new A.wv(0.11111333*this.b,180,(q.a.a-200)/2,50),t.N).aW(0,new A.aBj(r),t.P)},
+A.aFH(r,8,A.ah(new A.ae(p,new A.aBi(),s),!0,s.i("aL.E")),new A.wv(0.11111333*this.b,235,(q.a.a-200)/2,50),t.N).aW(0,new A.aBj(r),t.P)},
 $S:0}
 A.aBi.prototype={
 $1(a){var s=null
@@ -93219,7 +93219,7 @@ q=p.jD(t.N1)
 r.a(q.c.gE())
 r=this.c
 q=A.a5(r).i("ae<1,kU<n>>")
-A.aFH(p,8,A.ah(new A.ae(r,new A.avO(),q),!0,q.i("aL.E")),new A.wv(0.02*s,205,0.98*s-205,50),t.N).aW(0,new A.avP(p),t.P)},
+A.aFH(p,8,A.ah(new A.ae(r,new A.avO(),q),!0,q.i("aL.E")),new A.wv(0.02*s,162,0.98*s-205,50),t.N).aW(0,new A.avP(p),t.P)},
 $S:0}
 A.avO.prototype={
 $1(a){var s=null,r=A.ad(B.d.ac(76.5),0,0,0)
