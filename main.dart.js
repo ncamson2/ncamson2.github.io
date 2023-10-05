@@ -92961,9 +92961,9 @@ A.ahQ.prototype={
 $2(a,b){var s,r,q=null,p=t.w,o=a.J(p).f.a.a,n=a.J(p).f.a.b
 A.aJ(b.d+"hey nick")
 p=t.p
-s=o/6
+s=o/8
 r=t.s
-return A.aG(A.bF(A.a([new A.as(B.Ed,A.bV(A.a([A.bF(A.a([A.bV(A.a([new A.as(B.D,A.bb("Buyer's Maximum Price: $"+A.af(a,!1,t.Q).c.b+" Dollars",q,q,q,A.cx(q,q,B.f,q,q,q,q,q,q,q,q,30,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),q)],p),B.o,B.t,B.m),new A.Ej(100,300,q),A.aG(new A.as(B.oS,A.jh(B.f,q,A.jh(q,new A.i7(b.e),q,s-2),s),q),q,q),A.bb(b.a,q,q,q,A.cx(q,q,B.f,q,q,q,q,q,q,q,q,n*o/22e3,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q)],p),B.o,B.t,B.m),A.bF(A.a([A.bb("More Details From Your Potential Buyer ...",q,q,q,A.cx(q,q,B.f,q,q,q,q,q,q,q,q,30,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),new A.as(B.DW,A.aG(new A.NE(A.a(["2999","2002","2100","2400","4132","4132","4132"],r),A.a(["9219","2002","2100","2400","4132","4132","4132"],r),q),250,700),q),new A.as(B.Ea,A.bb("Have this item?",q,q,q,A.cx(q,q,B.f,q,q,q,q,q,q,q,q,30,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),q),B.nz,A.bV(B.pV,B.o,B.ag,B.m),A.aG(q,20,q),A.bf(q,q,B.j,B.f,q,q,q,2,q,q,q,q,q,500),A.aG(q,15,q)],p),B.o,B.t,B.m)],p),B.o,B.e0,B.m),q)],p),B.o,B.t,B.m),n,q)},
+return A.aG(A.bF(A.a([new A.as(B.Ed,A.bV(A.a([A.bF(A.a([A.bV(A.a([new A.as(B.D,A.bb("Buyer's Maximum Price: $"+A.af(a,!1,t.Q).c.b+" Dollars",q,q,q,A.cx(q,q,B.f,q,q,q,q,q,q,q,q,30,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),q)],p),B.o,B.t,B.m),new A.Ej(100,300,q),A.aG(new A.as(B.oS,A.jh(B.f,q,A.jh(q,new A.i7(b.e),q,s-2),s),q),q,q),A.bb(b.a,q,q,q,A.cx(q,q,B.f,q,q,q,q,q,q,q,q,n*o/22e3,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q)],p),B.o,B.t,B.m),A.bF(A.a([A.bb("More Details From Your Potential Buyer ...",q,q,q,A.cx(q,q,B.f,q,q,q,q,q,q,q,q,30,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),new A.as(B.DW,A.aG(new A.NE(A.a(["2999","2002","2100","2400","4132","4132","4132"],r),A.a(["9219","2002","2100","2400","4132","4132","4132"],r),q),250,700),q),new A.as(B.Ea,A.bb("Have this item?",q,q,q,A.cx(q,q,B.f,q,q,q,q,q,q,q,q,30,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),q),B.nz,A.bV(B.pV,B.o,B.ag,B.m),A.aG(q,20,q),A.bf(q,q,B.j,B.f,q,q,q,2,q,q,q,q,q,500),A.aG(q,15,q)],p),B.o,B.t,B.m)],p),B.o,B.e0,B.m),q)],p),B.o,B.t,B.m),n-50,q)},
 $S:82}
 A.R6.prototype={
 H(a){var s=t.w,r=a.J(s).f
@@ -93077,10 +93077,10 @@ break
 case 1:return A.B(q,r)}})
 return A.C($async$zl,r)}}
 A.Nx.prototype={
-H(a){var s=null,r=t.w,q=a.J(r).f
-a.J(r).toString
-r=t.p
-return A.bF(A.a([B.ew,A.bV(A.a([new A.as(B.ij,new A.Dr(s),s),A.aG(s,s,q.a.a/20),A.bF(A.a([new A.as(new A.ao(0,15,0,0),new A.Bs(300,s),s),A.b3X(a,1.82,5.65)],r),B.bp,B.t,B.m)],r),B.bp,B.t,B.m)],r),B.o,B.t,B.m)}}
+H(a){var s,r=null,q=t.w,p=a.J(q).f.a.a
+q=a.J(q).f
+s=t.p
+return A.aG(A.bF(A.a([B.ew,A.bV(A.a([new A.as(B.ij,new A.Dr(r),r),A.aG(r,r,p/20),A.bF(A.a([new A.as(new A.ao(0,15,0,0),new A.Bs(300,r),r),A.b3X(a,1.82,5.65)],s),B.bp,B.t,B.m)],s),B.bp,B.t,B.m)],s),B.o,B.t,B.m),q.a.b,p)}}
 A.Dr.prototype={
 ag(){var s=null
 return new A.Z3(A.jV(s),A.jV(s),A.jV(s),A.jV(s),A.jV(s),A.jV(s),A.jV(s),A.jV(s),B.k)}}
